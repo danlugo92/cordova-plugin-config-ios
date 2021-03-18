@@ -1,10 +1,9 @@
 {
   "name": "cordova-plugin-config-ios",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Placeholder",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Daniel Lugo",
   "license": "MIT",
   "devDependencies": {
