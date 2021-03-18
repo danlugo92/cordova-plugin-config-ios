@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="cordova-plugin-config-ios" version="0.0.2" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>CRM Factory Cordova Localization iOS Plugin</name>
+    <description>A label translate example</description>
+    <!-- ios -->
+    <platform name="ios">
+    <edit-config target="CFBundleLocalizations" file="*-Info.plist" mode="overwrite">
+        <array>
+            <string>en</string>
+        </array>
+    </edit-config>
+    </platform>
+</plugin>

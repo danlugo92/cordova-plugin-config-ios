@@ -8,5 +8,6 @@
   "license": "MIT",
   "devDependencies": {
     "np": "^7.4.0"
-  }
+  },
+  "files": ["plugin.xml"]
 }
